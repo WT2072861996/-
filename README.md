@@ -29,9 +29,9 @@ This guide will walk you through the process of installing macOS on a PC (common
 
 2. Create a macOS installation USB using terminal commands:
     ```bash
-    sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+    sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
     ```
-    (Replace `Install macOS Mojave.app` with the actual path to the installation file, and `MyVolume` with the name of your USB drive)
+    (Replace `Install\ macOS\ Sonoma.app` with the actual path to the installation file, and `MyVolume` with the name of your USB drive)
 
 ### Step 2: Install Bootloader
 
